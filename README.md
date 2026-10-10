@@ -196,7 +196,7 @@ This is a **fully open-source project** and every kind of help is welcome: fixin
 
 ## 📜 License
 
-This project is released under the **MIT License**. You are free to use, copy, modify, merge, publish and distribute it, with credit to the original authors. See the [LICENSE](LICENSE) file for details.
+This project is released under the **Apache License**. You are free to use, copy, modify, merge, publish and distribute it, with credit to the original authors. See the [LICENSE](LICENSE) file for details.
 
 ---
 
